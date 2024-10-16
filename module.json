@@ -1,0 +1,31 @@
+{
+  "id": "npc-chatter",
+  "title": "NPC Chatter",
+  "description": "Your NPCs have things to say",
+  "version": "2.3.1",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "11"
+  },
+  "scripts": [
+    "./npcchatter.js"
+  ],
+  "packs": [
+    {
+      "name": "npc-chatter",
+      "label": "NPC Chatter",
+      "path": "./packs/npc-chatter.db",
+      "type": "Macro"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Cody Swendrowski",
+      "email": "cody@swendrowski.us"
+    }
+  ],
+  "socket": true,
+  "url": "https://github.com/jasharen/FoundryVtt-Npc-Chatter",
+  "manifest": "https://github.com/jasharen/FoundryVtt-Npc-Chatter/edit/master/module.json",
+  "download": ""
+}
