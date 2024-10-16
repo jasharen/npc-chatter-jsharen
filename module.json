@@ -2,7 +2,7 @@
   "id": "npc-chatter",
   "title": "NPC Chatter",
   "description": "Your NPCs have things to say",
-  "version": "2.3.1",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": 11,
     "verified": "11"
@@ -26,6 +26,6 @@
   ],
   "socket": true,
   "url": "https://github.com/jasharen/FoundryVtt-Npc-Chatter",
-  "manifest": "https://github.com/jasharen/FoundryVtt-Npc-Chatter/edit/master/module.json",
-  "download": ""
+  "manifest": "https://github.com/jasharen/npc-chatter-jsharen/releases/download/2.0.0/module.json",
+  "download": "https://github.com/jasharen/npc-chatter-jsharen/archive/refs/tags/v2.0.0.zip"
 }
